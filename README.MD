@@ -1,12 +1,12 @@
-# docker-node-mongo-mongo-express
+# Docker Course by Nana & AmigosCode
 
-- Built from Youtube tutorial by Nana Janashia : https://youtu.be/3c-iBn73dDE
+- Built from Youtube tutorial given by Nana Janashia : https://youtu.be/3c-iBn73dDE & AmigosCode: https://youtu.be/p28piYY_wv8
 
 This demo app shows a simple user profile app set up using
 
 - index.html with pure js and css styles
-- nodejs backend with express module
-- mongodb for data storage
+- nodejs backend with express module acting as a middleware
+- mongodb for data storage using no-sql
 
 All components are docker-based
 
