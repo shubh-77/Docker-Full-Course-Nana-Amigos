@@ -78,7 +78,7 @@ Step 1: Build Image
 
     docker build -t my-app:1.4 .
 
-Step 2: Give image a name using tag keyword
+Step 2: Give tag using tag keyword to recently created image along with your docker repository name on docker hub
 
     docker tag my-app:1.4 shubh7416/my-app:1.4
 
